@@ -1,0 +1,33 @@
+#{extends 'main.html' /}
+#{set title:'Home' /}
+
+<div class ="tabs">
+	<ul class="navigation">
+		<li><a>Tab A</a></li>
+		<li><a>Tab B</a></li>
+		<li><a>Tab C</a></li>
+	</ul>
+</div>
+
+Hello There
+
+<p>
+XML response returned is...
+</p>
+${content}
+
+&nbsp;
+<p>
+<div id="dashboard">
+<h3> You have requested customer ${cust.id}  
+<p>
+<h3><alink ref=@{Application.customers}Link here /}
+<p>
+<h3>Name	: ${cust.firstName} ${cust.lastName}
+<p>
+<h3>Address	: ${cust.street}
+<p>
+<h3>City	: ${cust.city}
+
+</div>
+

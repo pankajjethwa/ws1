@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ws1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.playframework.playclipse.playNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>public/greenscript-1.2.8b</name>
+			<type>2</type>
+			<location>C:/Users/pjethw2/eclipse/workspace/dwsp/webapp/modules/greenscript-1.2.8b/public</location>
+		</link>
+		<link>
+			<name>public/paginate-head</name>
+			<type>2</type>
+			<location>C:/Users/pjethw2/eclipse/workspace/dwsp/webapp/modules/paginate-head/public</location>
+		</link>
+		<link>
+			<name>public/secure</name>
+			<type>2</type>
+			<location>C:/Users/pjethw2/Documents/play-1.2.5.5/modules/secure/public</location>
+		</link>
+	</linkedResources>
+</projectDescription>
