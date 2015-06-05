@@ -23,7 +23,8 @@ requested
 <div id="dashboard">
 <h3> You have requested customer ${cust.id}  
 <p>
-<h3><alink ref="@{Application.customers}" Link here /}
+<h3><a href="@{Application.customers}" Link here /}
+<h3><a href="http://www.playframework.org">play framework</a>
 <p>
 <h3>Name	: ${cust.firstName} ${cust.lastName}
 <p>
@@ -33,3 +34,12 @@ requested
 
 </div>
 
+<p>${errors}
+<p>${flash}
+<p>${lang}
+<p>${messages}
+<p>${out}
+<p>${param}
+<p>${play.toString()}
+<p>${request}
+<p>${session.isDirty}
