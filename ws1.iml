@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file:///production/ws1" />
+    <output-test url="file:///test/ws1" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.6" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="Project Libraries">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PlayFramework Dependencies">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/framework/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Documents/play-1.2.5.5/framework/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/play-1.2.5.5/framework/play-1.2.5.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/framework/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../.." />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/documentation/api" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../dwsp/jar" />
+          <root url="file://$MODULE_DIR$/../dwsp/support/AddReg28RiskReviewDate/src" />
+          <root url="file://$MODULE_DIR$/../dwsp/support/DWSP 2 Bulk update/src" />
+          <root url="file://$MODULE_DIR$/../dwsp/support/Insert Bulk Actions/src" />
+          <root url="file://$MODULE_DIR$/../dwsp/support/JTDS for LocalDB Instance/Update dbURL" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/accesslog-1.2/src" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/excel-1.2.3/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/excel-1.2.3/samples-and-tests/excel/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/excel-1.2.3/src" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/externalconfig-0.2/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/externalconfig-0.2/sample/externalconfigsample/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/externalconfig-0.2/sample/externalconfigsample/test" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/booking/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/chat/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/demo/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/inline-dependency-declaring/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/jquery-ui/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/jquery-ui/test" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/less-and-coffee/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/less-and-coffee/test" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/tag-in-modules/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/tag-in-modules/test" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/use-gs-in-tags/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/samples-and-tests/use-gs-in-tags/test" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/greenscript-1.2.8b/src" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/mockito-0.1/src" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/paginate-head/src" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/spring-1.0.2/samples-and-tests/test/app" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/spring-1.0.2/samples-and-tests/test/test" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/modules/spring-1.0.2/src" />
+          <root url="file://$MODULE_DIR$/../dwsp/webapp/test" />
+          <root url="file://$MODULE_DIR$/../playtest/playtest/app" />
+          <root url="file://$MODULE_DIR$/../playtest/playtest/test" />
+          <root url="file://$MODULE_DIR$/../playtets2/app" />
+          <root url="file://$MODULE_DIR$/../playtets2/test" />
+          <root url="file://$MODULE_DIR$/app" />
+          <root url="file://$MODULE_DIR$/test" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Documents" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/documentation/api" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/framework/test-src" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/modules/crud/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/modules/docviewer/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/modules/grizzly/src" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/modules/secure/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/modules/testrunner/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/modules/testrunner/src" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/resources/application-skel/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/resources/application-skel/test" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/booking/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/booking/test" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/chat/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/facebook-oauth2/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/facebook-oauth2/test" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/forum/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/forum/test" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/jobboard/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/jobboard/test" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/just-test-cases/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/just-test-cases/test" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/twitter-oauth/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/validation/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/validation/test" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/yabe/app" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/yabe/test" />
+          <root url="file://$USER_HOME$/Documents/play-1.2.5.5/samples-and-tests/zencontact/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/framework/src" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/framework/test-src" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/modules/console/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/modules/crud/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/modules/docviewer/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/modules/docviewer/src" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/modules/grizzly/src" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/modules/secure/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/modules/testrunner/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/modules/testrunner/src" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/myApp/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/myApp/test" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/resources/application-skel/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/resources/application-skel/test" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/booking/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/booking/test" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/chat/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/customJars/example/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/customJars/example/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/facebook-oauth2/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/facebook-oauth2/test" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/forum/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/forum/test" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/java8Support/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/java8Support/test" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/jobboard/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/jobboard/test" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/just-test-cases/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/just-test-cases/test" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/modules/testModule/src" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/multi-db/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/multi-db/test" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/twitter-oauth/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/validation/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/validation/test" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/yabe/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/yabe/test" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/samples-and-tests/zencontact/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/yabe/app" />
+          <root url="file://$USER_HOME$/Documents/play1-1.3.0/yabe/test" />
+          <root url="file://$USER_HOME$/Documents/typesafe-activator-1.3.2-minimal/activator-1.3.2-minimal/my-first-app/app" />
+          <root url="file://$USER_HOME$/Documents/typesafe-activator-1.3.2-minimal/activator-1.3.2-minimal/my-first-app/target/scala-2.11/src_managed/main" />
+          <root url="file://$USER_HOME$/Documents/typesafe-activator-1.3.2-minimal/activator-1.3.2-minimal/my-first-app/test" />
+          <root url="file://$USER_HOME$/Documents/typesafe-activator-1.3.2-minimal/activator-1.3.2-minimal/my-first-app/zentasks/app" />
+          <root url="file://$USER_HOME$/Documents/typesafe-activator-1.3.2-minimal/activator-1.3.2-minimal/my-first-app/zentasks/target/scala-2.11/src_managed/main" />
+          <root url="file://$USER_HOME$/Documents/typesafe-activator-1.3.2-minimal/activator-1.3.2-minimal/my-first-app/zentasks/test" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
